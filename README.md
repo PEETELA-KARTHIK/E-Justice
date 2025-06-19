@@ -4,6 +4,12 @@
 
 E-Justice is a web-based platform designed to modernize and digitize the judicial process. By leveraging technology, E-Justice aims to improve efficiency, transparency, and accessibility in the legal system. The platform allows clients to file cases online and lawyers to manage and track their assigned cases, making legal services more accessible and streamlined.
 
+
+## DEMO
+
+You can try the live demo of E-Justice here: [https://gorgeous-begonia-969244.netlify.app/](https://gorgeous-begonia-969244.netlify.app/)
+
+
 ## Features
 
 - **Client and Lawyer Portals:** Separate login and profile pages for clients and lawyers.
